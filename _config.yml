@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Aprendizado por Reforço
+description: Categoria de algoritmos de aprendizado de máquina com bastante interação com o ambiente
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://glauberrleite.github.io/course-reinforcement-learning
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+mermaid:
+  # Version of mermaid library
+  # Pick an availableble version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.12.0"
+
