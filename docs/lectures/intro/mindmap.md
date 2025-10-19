@@ -1,6 +1,7 @@
 ---
 title: Mindmap
 parent: Introduction
+layout: default
 ---
 
 ```mermaid
